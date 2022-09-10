@@ -13,7 +13,7 @@ My:
 - ⚡ Fun fact: I love reading and watch anime
 
 
-     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassineboujrada&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassineboujrada&show_icons=true&theme=radical)
 
 ## Tools
 #### Web Developpement
